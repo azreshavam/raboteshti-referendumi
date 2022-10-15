@@ -22,3 +22,5 @@
 Проектозаконът, мотивите към него и оценката на въздействието му са в папката [**ЗИД-ЗПУГДВМС**](https://github.com/azreshavam/raboteshti-referendumi/tree/main/%D0%97%D0%98%D0%94-%D0%97%D0%9F%D0%A3%D0%93%D0%94%D0%92%D0%9C%D0%A1).
 
 [**Уеб-страница на инициативата**](https://azreshavam.bg/raboteshti-referendumi)
+
+[**Фейсбук страница**](https://www.facebook.com/Az.Reshavam.initiative/)
